@@ -1,0 +1,13 @@
+body{
+    background: linear-gradient(190.19deg,var(--gradienteFondo1Start) 7.52%,var(--gradienteFondo1End) 73.16%);
+    background-size: 100vw 100vh;
+    background-attachment: fixed;
+    margin: 0px;
+    padding: 0px;
+
+
+}
+.deshabilitado{
+    opacity: 0.7;
+    cursor: unset;
+}

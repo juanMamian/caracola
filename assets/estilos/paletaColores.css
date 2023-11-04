@@ -1,0 +1,10 @@
+:root{
+    --paletaMain: #f49e4c;
+    --paletaSeleccion: blue;
+
+    --paletaNodoAprendido: orange;
+    --paletaNodoOlvidado:pink;
+
+    --gradienteFondo1Start: #fcff77;
+    --gradienteFondo1End: rgba(235, 85, 21, 0.75);
+}

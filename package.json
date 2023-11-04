@@ -1,0 +1,28 @@
+{
+  "name": "nuxt-app",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "@nuxt/devtools": "latest",
+    "@nuxtjs/apollo": "^5.0.0-alpha.7",
+    "@vue/apollo-composable": "^4.0.0-beta.4",
+    "nuxt": "^3.8.0",
+    "vue": "^3.3.7",
+    "vue-router": "^4.2.5"
+  },
+  "dependencies": {
+    "@apollo/server": "^4.9.5",
+    "@as-integrations/h3": "^1.1.6",
+    "graphql": "^16.8.1",
+    "lodash.merge": "^4.6.2",
+    "nuxt-graphql-server": "^3.0.0",
+    "nuxt-mongoose": "^1.0.3"
+  }
+}
